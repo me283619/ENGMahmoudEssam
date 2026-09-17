@@ -57,7 +57,7 @@ Confusion Matrix Heatmap from one of my ML projects:
 - 📞 Mobile: 01202600650  
 - ✉️ Email: me283619@gmail.com  
 - 🔗 LinkedIn: [Mahmoud Essam](https://www.linkedin.com/in/mahmoud-essam-63756a357)  
-- 💻 GitHub: *(Add your GitHub profile link here)*  
+- 💻 GitHub: *(https://github.com/me283619)*  
 
 ---
 
